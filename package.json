@@ -1,0 +1,19 @@
+{
+  "name": "awesome-opensource-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:cuilongjin/awesome-opensource-project.git",
+  "author": "cuilongjin <cui3155@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-wqdy": "^0.0.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "got": "^11.8.3"
+  },
+  "eslintConfig": {
+    "extends": ["wqdy"]
+  }
+}
