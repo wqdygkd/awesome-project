@@ -57,3 +57,7 @@ watchtower - watchtower：自动更新 Docker 容器 https://github.com/v2tec/wa
 
 https://github.com/npm/node-semver  npm 包版本比较
 leven https://github.com/sindresorhus/leven
+
+
+高效率 QQ 机器人支持库 https://github.com/mamoe/mirai
+https://github.com/Mrs4s/go-cqhttp  使用 mirai (opens new window)以及 MiraiGo (opens new window)开发的 cqhttp golang 原生实现
