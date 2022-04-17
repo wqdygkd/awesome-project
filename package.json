@@ -1,9 +1,9 @@
 {
-  "name": "awesome-opensource-project",
+  "name": "awesome-project",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "repository": "git@github.com:cuilongjin/awesome-opensource-project.git",
+  "repository": "git@github.com:wqdygkd/awesome-project.git",
   "author": "cuilongjin <cui3155@gmail.com>",
   "license": "MIT",
   "devDependencies": {
