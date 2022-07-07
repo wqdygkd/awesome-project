@@ -35,7 +35,7 @@
 - [Draft.js](https://github.com/facebook/draft-js) - 富文本编辑器（React）
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 最佳实践列表
 - [json-server](https://github.com/typicode/json-server) 根据 JSON 文件提供数据接口
-- []()
+- [decimal.js](https://github.com/MikeMcl/decimal.js) 解决js运算精度问题
 
 ## 工具
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Oh My Zsh 是一个社区驱动的开源框架，用于管理 Zsh 配置
