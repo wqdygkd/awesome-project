@@ -68,6 +68,9 @@
 ## 模拟器
 - [Ryujinx](https://github.com/Ryujinx/Ryujinx) - PC 上 Switch 模拟器
 
+## api
+- [public-apis](https://github.com/public-apis/public-apis) - 一套公开 API，可以用于软件和 Web 开发
+
 ## 其他
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 程序员考公指南
 - [955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单
