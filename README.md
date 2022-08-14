@@ -34,8 +34,10 @@
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - 将 `/user/:name` 等路径字符串转换为正则表达式（node.js）
 - [Draft.js](https://github.com/facebook/draft-js) - 富文本编辑器（React）
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 最佳实践列表
-- [json-server](https://github.com/typicode/json-server) 根据 JSON 文件提供数据接口
-- [decimal.js](https://github.com/MikeMcl/decimal.js) 解决js运算精度问题
+- [json-server](https://github.com/typicode/json-server) - 根据 JSON 文件提供数据接口
+- [decimal.js](https://github.com/MikeMcl/decimal.js) - 解决js运算精度问题
+- [async](https://github.com/caolan/async)
+- [ora](https://github.com/sindresorhus/ora)
 
 ## 工具
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Oh My Zsh 是一个社区驱动的开源框架，用于管理 Zsh 配置
@@ -49,6 +51,10 @@
 - [lux](https://github.com/iawia002/lux) - 视频下载神器（支持爱优腾等）
 - [deskreen](https://github.com/pavlobu/deskreen) - 将任何设备转换为电脑的辅助屏幕
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+
+## 测试
+- [Puppeteer](https://github.com/puppeteer/puppeteer) - 无头chrome
+- [Playwright](https://github.com/microsoft/playwright) - 无头Chromium, WebKit, and Firefox
 
 ## 沙雕项目
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 中国表情包大集合
