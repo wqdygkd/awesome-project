@@ -38,6 +38,7 @@
 - [decimal.js](https://github.com/MikeMcl/decimal.js) - 解决js运算精度问题
 - [async](https://github.com/caolan/async)
 - [ora](https://github.com/sindresorhus/ora)
+- [web-vitals](https://github.com/GoogleChrome/web-vitals)
 
 ## 工具
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Oh My Zsh 是一个社区驱动的开源框架，用于管理 Zsh 配置
