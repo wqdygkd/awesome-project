@@ -1,5 +1,14 @@
 # awesome-project
 
+## 项目集合
+
+- [awesome](https://github.com/sindresorhus/awesome)
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Awesome-Windows](https://github.com/Awesome-Windows/Awesome)
+- [awesome-python](https://github.com/vinta/awesome-python)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
 ## 知识库/教程
 
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 每天一道大厂前端面试题
@@ -51,7 +60,6 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 下载全网视频
 - [lux](https://github.com/iawia002/lux) - 视频下载神器（支持爱优腾等）
 - [deskreen](https://github.com/pavlobu/deskreen) - 将任何设备转换为电脑的辅助屏幕
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 ## 测试
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - 无头chrome
