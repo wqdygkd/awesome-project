@@ -4,6 +4,7 @@
 
 - [awesome](https://github.com/sindresorhus/awesome)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome-Windows](https://github.com/Awesome-Windows/Awesome)
 - [awesome-python](https://github.com/vinta/awesome-python)
